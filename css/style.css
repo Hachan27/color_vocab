@@ -1,0 +1,31 @@
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+.image {
+    height: 200px;/*Não pode esquecer a notação px. O número sozinho não afeta nada*/
+    width: 200px;
+}
+
+
+/*'#blue' aqui usei o css com id; '.color-title' e aqui foi com a classe */
